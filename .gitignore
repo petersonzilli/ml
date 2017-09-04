@@ -1,0 +1,9 @@
+/.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# Object file
+*.o
+runJupyter.bat
+
+# Ada Library Information
+*.ali
